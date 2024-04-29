@@ -38,8 +38,8 @@ These courses provide a solid foundation for further studies in computer science
 For each topic, provided the following materials:<br>
 **Lectures:** Lecture slides that cover the basic concepts of each topic.<br>
 **Practical exercises:** A set of tasks that will help students apply and practice the concepts they have learned.<br>
-**Test:** Test papers to assess student progress. These can be tests, projects, or homework assignments.
----
+**Test:** Test papers to assess student progress. These can be tests, projects, or homework assignments.<br>
+ 
 Links to the content
 <br>
 [Google Classroom](https://classroom.google.com/c/Njc2NzY2OTQ3ODUw?cjc=6efdqkr)
