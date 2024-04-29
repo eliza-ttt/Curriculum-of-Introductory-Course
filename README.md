@@ -32,8 +32,8 @@ These courses provide a solid foundation for further studies in computer science
 - Matrices and vectors
 - Limits and derivatives
 - Sequences
-- Functions and graphs
-<br>
+- Functions and graphs<br>
+
 **Part 3: Introduction to Computer Science**
 For each topic, provided the following materials:<br>
 **Lectures:** Lecture slides that cover the basic concepts of each topic.<br>
