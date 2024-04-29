@@ -9,19 +9,19 @@
 
 These courses provide a solid foundation for further studies in computer science and are essential for anyone aspiring to become a software engineer, data scientist, or any other role in the tech industry. They equip students with the mathematical, logical, and technical skills needed to excel in this rapidly evolving field.<br><br>
 
-**Part 1: Programming**<br>
-1.Introduction to Programming<br>
+**Part 1: Programming**<br><br>
+1.Introduction to Programming
 - What is programming?
 - Why is this important?
-- Programming language<br>
+- Programming language<br><br>
 2.Basics of programming<br>
 - Variables and data types
 - Control structures: loops and conditional operators
-- Functions and modules<br>
+- Functions and modules<br><br>
 3.Advanced programming<br>
 - Data Structures
 - Algorithms
-- Object-oriented programming
+- Object-oriented programming<br><br>
 **Part 2: Mathematics**<br>
 1.Calculus 1<br>
 - Linear equations and inequalities
