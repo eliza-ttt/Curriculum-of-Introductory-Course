@@ -14,16 +14,15 @@ These courses provide a solid foundation for further studies in computer science
 - What is programming?
 - Why is this important?
 - Programming language
-2.Basics of programming<br>
+<br>2.Basics of programming<br>
 - Variables and data types
 - Control structures: loops and conditional operators
 - Functions and modules
-3.Advanced programming<br>
+<br>3.Advanced programming<br>
 - Data Structures
 - Algorithms
 - Object-oriented programming
-<br>
-**Part 2: Mathematics**<br>
+<br>**Part 2: Mathematics**<br>
 1.Calculus 1<br>
 - Linear equations and inequalities
 - Quadratic equations
