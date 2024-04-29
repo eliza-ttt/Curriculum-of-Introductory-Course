@@ -18,13 +18,13 @@ These courses provide a solid foundation for further studies in computer science
 2.Basics of programming<br>
 - Variables and data types<br>
 - Control structures: loops and conditional operators<br>
-- Functions and modules
-<br>
+- Functions and modules<br>
+
 3.Advanced programming<br>
 - Data Structures<br>
 - Algorithms<br>
 - Object-oriented programming<br>
-<br>
+
 **Part 2: Mathematics**<br>
 1.Calculus 1<br>
 - Linear equations and inequalities
