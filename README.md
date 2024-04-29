@@ -1,4 +1,4 @@
-<h1 align="center">Curriculum-of-Introductory-Course Programming and Mathematics</h1><br>
+<h1 align="center">Curriculum-of-Introductory-Course Programming and Mathematics</h1>
 **Here's a short brief to introductory course on programming and mathematics, focusing on Calculus 1, Programming Language 1, and Introduction to Computer Science:** <br>
 
 1. Programming Language 1:<br> This is the first course in programming for computer science students. It introduces the basics of programming using a high-level language like Java. Students learn about data types, variables, control structures, functions, and basic data structures. The course aims to develop problem-solving skills and computational thinking, which are essential for software development and algorithm design.<br><br>
@@ -32,23 +32,24 @@ These courses provide a solid foundation for further studies in computer science
 - Matrices and vectors
 - Limits and derivatives
 - Sequences
-- Functions and graphs <br>
-
+- Functions and graphs
+<br>
 **Part 3: Introduction to Computer Science**
 For each topic, provided the following materials:<br>
 **Lectures:** Lecture slides that cover the basic concepts of each topic.<br>
 **Practical exercises:** A set of tasks that will help students apply and practice the concepts they have learned.<br>
 **Test:** Test papers to assess student progress. These can be tests, projects, or homework assignments.
 ---
-Here's the link to created interactive course on Google Classroom
+Links to the content
 <br>
-[Here's the link to created interactive course on Google Classroom](https://classroom.google.com/c/Njc2NzY2OTQ3ODUw?cjc=6efdqkr)
+[Google Classroom](https://classroom.google.com/c/Njc2NzY2OTQ3ODUw?cjc=6efdqkr)
 <br>
 <br>
-The Youtube videos playlist link 
+The Youtube videos playlist link
 <br>
-
+[Youtube](https://www.youtube.com/playlist?list=PL2qSnIaJRkKtksgmMOgxjBxTDRUwV_EnT)
 <br>
 <br>
 The Presentations of the course is below
 <br>
+[Google Drive](https://drive.google.com/drive/folders/1E8_3AsUqIlWk5iVwY_31pRkxdQhBNLHN?usp=sharing)
